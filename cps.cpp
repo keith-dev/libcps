@@ -1,5 +1,5 @@
 #include "cps.hpp"
-#include <timyxml2/tinyxml2.h>
+#include <tinyxml2/tinyxml2.h>
 
 namespace cps
 {
@@ -7,6 +7,6 @@ namespace cps
 	{
 		playlist_t ret;
 
-		return ret
+		return ret;
 	}
 }

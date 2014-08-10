@@ -1,6 +1,9 @@
 #ifndef CPS_HPP
 #define CPS_HPP
 
+#include <string>
+#include <list>
+
 namespace cps
 {
 	struct entry_t
